@@ -1,0 +1,14 @@
+{
+  "name": "PropStack Test",
+  "description": "My Test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_dl"
+  ],
+  "dependencies": {
+    "d3": "^4.8.0",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
